@@ -415,7 +415,7 @@ Si ce projet vous a été utile, pensez à lui donner une étoile ⭐ sur GitHub
 
 **Version** : 1.0.5  
 **Dernière mise à jour** : 2024  
-**Maintenu par** : [Votre Nom](https://github.com/yourusername)
+**Maintenu par** : **DSPI-TECH**
 
 ---
 
