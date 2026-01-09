@@ -6,7 +6,7 @@
 
 ## 📋 Description
 
-**Cursor Optimization & Identity Reset Tool ** est un script PowerShell professionnel conçu pour optimiser et réinitialiser l'identité système de l'éditeur Cursor. Cet outil permet de nettoyer les métadonnées de session, réinitialiser l'identité machine virtuelle, et optimiser les paramètres du registre Windows pour une expérience utilisateur optimale.
+**Cursor Optimization & Identity Reset Tool** est un script PowerShell professionnel conçu pour optimiser et réinitialiser l'identité système de l'éditeur Cursor. Cet outil permet de nettoyer les métadonnées de session, réinitialiser l'identité machine virtuelle, et optimiser les paramètres du registre Windows pour une expérience utilisateur optimale.
 
 ## ✨ Fonctionnalités
 
