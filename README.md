@@ -28,8 +28,8 @@
 
 1. Clonez ou téléchargez ce dépôt :
 ```bash
-git clone https://github.com/yourusername/cursor-reset-tool.git
-cd cursor-reset-tool
+git clone https://github.com/dspitech/CursorDeleteUpdate.git
+cd CursorDeleteUpdate
 ```
 
 2. Assurez-vous que PowerShell autorise l'exécution de scripts :
